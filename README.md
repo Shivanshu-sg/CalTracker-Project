@@ -22,6 +22,6 @@ The site has a BMI Calculator and a calorie tracker that gives calorie users die
 
 ## Languages Used
 - HTML and CSS for frontend.
-- Python for backend (flask library)
+- Javascript for the Processsing
 
-That is all for any other query don't hesitate to ask us, thank you for reading till the end. 
+That is all for any other query don't hesitate to ask us, thank you for reading till the end.

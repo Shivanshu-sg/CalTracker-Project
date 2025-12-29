@@ -1,0 +1,22 @@
+[
+  {"id": "chicken_breast", "name": "Chicken Breast (skinless)", "kcal_per_100g": 165},
+  {"id": "white_rice", "name": "White Rice (cooked)", "kcal_per_100g": 130},
+  {"id": "egg", "name": "Egg (whole)", "kcal_per_100g": 155},
+  {"id": "whole_milk", "name": "Whole Milk", "kcal_per_100g": 60},
+  {"id": "bread_white", "name": "White Bread", "kcal_per_100g": 265},
+  {"id": "butter", "name": "Butter", "kcal_per_100g": 717},
+  {"id": "olive_oil", "name": "Olive Oil", "kcal_per_100g": 884},
+  {"id": "sugar", "name": "Sugar (granulated)", "kcal_per_100g": 387},
+  {"id": "apple", "name": "Apple", "kcal_per_100g": 52},
+  {"id": "banana", "name": "Banana", "kcal_per_100g": 89},
+  {"id": "potato", "name": "Potato", "kcal_per_100g": 77},
+  {"id": "beef", "name": "Beef (lean)", "kcal_per_100g": 250},
+  {"id": "salmon", "name": "Salmon", "kcal_per_100g": 208},
+  {"id": "cheddar_cheese", "name": "Cheddar Cheese", "kcal_per_100g": 403},
+  {"id": "yogurt_plain", "name": "Yogurt (plain)", "kcal_per_100g": 59},
+  {"id": "oats", "name": "Oats (rolled)", "kcal_per_100g": 389},
+  {"id": "almonds", "name": "Almonds", "kcal_per_100g": 579},
+  {"id": "peanut_butter", "name": "Peanut Butter", "kcal_per_100g": 588},
+  {"id": "broccoli", "name": "Broccoli", "kcal_per_100g": 34},
+  {"id": "carrot", "name": "Carrot", "kcal_per_100g": 41}
+]
